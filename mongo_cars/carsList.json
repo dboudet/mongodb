@@ -1,0 +1,42 @@
+{
+    make: "Chevy",
+    model: "Tahoe",
+    year: 2001,
+    type: ["SUV"]
+}
+{
+    make: "Audi",
+    model: "TT",
+    year: 2016,
+    type: ["sports","convertible", "coupe"]
+}
+{
+    make: "Aston Martin",
+    model: "Vanquish",
+    year: 2019,
+    type: ["sports","luxury", "coupe"]
+}
+{
+    make: "Ford",
+    model: "Escape",
+    year: 2020,
+    type: ["crossover"]
+}
+{
+    make: "Mini",
+    model: "Cooper",
+    year: 1999,
+    type: ["subcompact"]
+}
+{
+    make: "Ford",
+    model: "Taurus",
+    year: 1992,
+    type: ["sedan","family"]
+}
+{
+    make: "BMW",
+    model: "760i",
+    year: 2017,
+    type: ["luxury","sedan"]
+}
