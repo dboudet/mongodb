@@ -28,10 +28,10 @@ getallCarsCount()
 // function to add a car
 function addCar() {
     const newCar = new Car({
-        make: "Ford",
-        model: "Mustang",
-        year: 1969,
-        type: ["sports","coupe"]
+        make: "BMW",
+        model: "760i",
+        year: 2017,
+        type: ["luxury","sedan"]
     })
     newCar.save()
     .then(() => console.log("New car has been added."))
